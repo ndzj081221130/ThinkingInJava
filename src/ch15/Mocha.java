@@ -1,0 +1,1 @@
+package ch15;public class Mocha extends Coffee{	}

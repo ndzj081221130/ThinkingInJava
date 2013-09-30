@@ -1,0 +1,1 @@
+package ch15;import java.util.Collection;import java.util.Collections;public class Generators {//	public static <T> Collections <T> fill(Collection<T> coll,Generator<T> gen,int n ){//		//	}	/**	 * @param args	 */	public static void main(String[] args) {		// TODO Auto-generated method stub	}}

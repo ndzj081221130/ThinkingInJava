@@ -1,0 +1,1 @@
+package ch12;import java.util.ArrayList;import java.util.List;public class ex1 {	public static void main(String[]args){		try {//			ArrayList<String> list=null;//			list.size();			int[]aa = new int[5];			aa[5]=1;		} catch (Exception e) {			// TODO: handle exception			e.printStackTrace();		}finally{			System.out.print("you got it");//""		}	}}
